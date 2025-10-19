@@ -2,12 +2,10 @@
 import React, { useState } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-import {
-  DropdownMenu,
+import {DropdownMenu,
   DropdownMenuTrigger,
   DropdownMenuContent,
-  DropdownMenuItem,
-} from '@/components/ui/dropdown-menu'
+  DropdownMenuItem,} from "@/Components/ui/dropdown-menu"
 
 
 

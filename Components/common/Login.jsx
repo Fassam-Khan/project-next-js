@@ -24,7 +24,7 @@ export default function LoginPage() {
   return (
     <div className="" >
       <h2 className="text-2xl">LOGIN</h2>
-      <form onSubmit={handleLogin} className="flex flex-col gap-4 mt-6 flex-wrap">
+      <form onSubmit={handleLogin} className="flex flex-col gap-4 mt-6 flex-wrap ">
         <label className="text-sm text-black" >Usename or email address * </label>
         <input 
           type="email"
