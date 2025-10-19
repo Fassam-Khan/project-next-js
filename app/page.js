@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Hero from "@/Components/marketplace/Hero";
-import ProductCard from "@/Components/common/ProductCard";
 import Feature from "@/Components/marketplace/Feature";
 
 export default function Home() {
